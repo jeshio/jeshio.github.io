@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a9c4068d5eeaa2d4d19dad6eb7cbb5e",
+    "revision": "74943eee13c249950af6f63199083a6d",
     "url": "/dasreda-task/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dasreda-task/static/js/2.31fa1fa8.chunk.js"
   },
   {
-    "revision": "4501f99525d3354fcf34",
-    "url": "/dasreda-task/static/js/main.0f244235.chunk.js"
+    "revision": "aa9f8f6f0919fef91e24",
+    "url": "/dasreda-task/static/js/main.986787aa.chunk.js"
   },
   {
     "revision": "39598923c1ba2106dcfd",

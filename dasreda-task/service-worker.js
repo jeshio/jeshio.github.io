@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dasreda-task/precache-manifest.764b33d0aa7a4afa929e7e6a58e360fd.js"
+  "/dasreda-task/precache-manifest.edbc476f56771d4f6d9d75b31c7e8f2b.js"
 );
 
 self.addEventListener('message', (event) => {
