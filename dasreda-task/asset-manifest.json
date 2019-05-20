@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/dasreda-task/static/js/main.986787aa.chunk.js",
-    "main.js.map": "/dasreda-task/static/js/main.986787aa.chunk.js.map",
+    "main.js": "/dasreda-task/static/js/main.04b50d90.chunk.js",
+    "main.js.map": "/dasreda-task/static/js/main.04b50d90.chunk.js.map",
     "runtime~main.js": "/dasreda-task/static/js/runtime~main.8dc283a6.js",
     "runtime~main.js.map": "/dasreda-task/static/js/runtime~main.8dc283a6.js.map",
     "static/css/2.79fd74fd.chunk.css": "/dasreda-task/static/css/2.79fd74fd.chunk.css",
-    "static/js/2.31fa1fa8.chunk.js": "/dasreda-task/static/js/2.31fa1fa8.chunk.js",
-    "static/js/2.31fa1fa8.chunk.js.map": "/dasreda-task/static/js/2.31fa1fa8.chunk.js.map",
+    "static/js/2.f9185e6b.chunk.js": "/dasreda-task/static/js/2.f9185e6b.chunk.js",
+    "static/js/2.f9185e6b.chunk.js.map": "/dasreda-task/static/js/2.f9185e6b.chunk.js.map",
     "index.html": "/dasreda-task/index.html",
-    "precache-manifest.edbc476f56771d4f6d9d75b31c7e8f2b.js": "/dasreda-task/precache-manifest.edbc476f56771d4f6d9d75b31c7e8f2b.js",
+    "precache-manifest.3f1769f39a459601d32e7e3027f7fbf3.js": "/dasreda-task/precache-manifest.3f1769f39a459601d32e7e3027f7fbf3.js",
     "service-worker.js": "/dasreda-task/service-worker.js",
     "static/css/2.79fd74fd.chunk.css.map": "/dasreda-task/static/css/2.79fd74fd.chunk.css.map"
   }
